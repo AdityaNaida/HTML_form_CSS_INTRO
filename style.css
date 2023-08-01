@@ -1,0 +1,62 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}*/
+
+/* 
+div{
+    height: 200px;
+    width: 400px;
+    border: 1px solid #000000;
+    padding: 100px;
+} */
+
+/* .heading{
+    color: red;
+    font-size: 52px;
+}
+
+.moto{
+    background-color: yellow;
+} */
+
+/* Element multiple selectors*/
+/* h2, h4, h3, h1{
+   color: red;
+   font-size: 40px;
+   font-weight: 400;
+} */
+
+/* id multiple selectors*/
+
+/* #hero1, #hero2, #hero3, #hero4{
+    color: green;
+    font-size: 50px;
+} */
+
+
+/* h4{
+    color: red;
+    font-size: 40px;======> Do not use this method
+    font-weight: 400;  
+}
+h1{
+    color: red;
+    font-size: 40px;   ======> Do not use this method
+    font-weight: 400;  
+}
+
+h3{
+    color: red;
+    font-size: 40px; ======> Do not use this method
+    font-weight: 400;  
+} */
+
+
+
+p.red{
+    color: red;
+    font-size: 30px;
+}
